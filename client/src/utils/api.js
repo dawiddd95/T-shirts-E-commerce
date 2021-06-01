@@ -1,0 +1,10 @@
+export const signupApi = '/api/auth/signup';
+export const signinApi = '/api/auth/signin';
+export const projectsApi = '/api/user/projects';
+export const projectsSearchApi = '/api/user/projects/search';
+export const ticketsApi = '/api/user/tickets';
+export const ticketsSearchApi = '/api/user/tickets/search';
+export const usersApi = '/api/users';
+export const profileApi = '/api/users/profile';
+export const adminApi = '/api/admin/user';
+export const commentsApi = '/api/user/comments';
